@@ -1,6 +1,6 @@
-oneSALTycrack3r@
-ExamplePlayer@
-TestPlayer01@
-SampleUser@
-DemoPlayer@
-Player123@
+oneSALTycrack3r
+ExamplePlayer
+TestPlayer01
+SampleUser
+DemoPlayer
+Player123

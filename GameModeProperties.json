@@ -1,0 +1,8 @@
+{
+  "maxCash": 2000000000,
+  "teamKillCashDrop": 4000,
+  "cashForKill": 250,
+  "rountTimer": 45,
+  "noTeams": false,
+  "alwaysScore": true
+}
